@@ -26,7 +26,7 @@ Here are some key projects you’ll find in this portfolio:
 ## How to Use
 - Clone this repository:
     ```bash
-    git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/gabriele9123/personal_workspace.git)
+    git clone https://github.com/gabriele9123/personal_workspace.git
     ```
 - Navigate through the projects directory and follow the individual project instructions for setup.
 
