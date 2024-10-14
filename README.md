@@ -2,8 +2,11 @@
 
 Welcome to my GitHub Portfolio! This repository showcases a collection of my projects, skills, and accomplishments as a developer, with a focus on Python automation and data analysis. Below, you’ll find an overview of what’s included in this repository and links to individual projects.
 
+
 ## About Me
 I’m Gabriele, a passionate developer with a strong interest in Python automation, data analysis, and process optimization.
+I currently live in Milan awhere I work as a data analyst in the food industry.
+
 
 ## Projects Included
 Here are some key projects you’ll find in this portfolio:
@@ -23,6 +26,7 @@ Here are some key projects you’ll find in this portfolio:
    *Tech Stack*: VBA, Power BI  
    *Link*: [Project URL or repo link]  
 
+
 ## How to Use
 - Clone this repository:
     ```bash
@@ -30,12 +34,14 @@ Here are some key projects you’ll find in this portfolio:
     ```
 - Navigate through the projects directory and follow the individual project instructions for setup.
 
+
 ## Skills Highlighted
 - Python (Automation, Scripting)
 - Airflow (DAGS creation and maintenance)
 - Data Analysis (Pandas, SQL)
 - Visualization Tools (Power BI, Tableau)
 - Process Optimization (VBA, Apps Script)
+
 
 ## Contact
 Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gabriele-pascaretta/)).
