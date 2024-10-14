@@ -1,33 +1,16 @@
 # Site settings
-title: "Your Portfolio Title"
+title: "Personal Workspace"
 description: "A showcase of my projects and achievements"
-url: "https://your-github-username.github.io"
-baseurl: "/your-repo-name"  # Leave empty if deploying to root
-author: "Your Name"
+url: "https://github.com/gabriele9123"
+baseurl: "/personal_workspace"  # Leave empty if deploying to root
+author: "Gabriele Pascaretta"
 
 # GitHub Pages settings
-repository: Gabriele9123/personal_workspace
+repository: gabriele9123/personal_workspace
 
 # Theme settings
-theme: minima  # Or any other theme you use
+theme: minima 
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag  # Improves SEO
-  - jekyll-sitemap  # Adds a sitemap.xml
-
-# Markdown and content settings
-markdown: kramdown
-highlighter: rouge  # For syntax highlighting in code blocks
-
-# Pagination settings (optional)
-paginate: 5  # Number of posts per page
-
-# Social media (optional)
-twitter_username: your_twitter_handle
-github_username: your_github_username
-linkedin_username: your_linkedin_username
-
-# Custom variables (optional)
-projects_page: /projects  # You can create custom variables if needed
+# Social media
+github_username: gabriele9123
+linkedin_username: gabriele-pascaretta
