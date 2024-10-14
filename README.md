@@ -3,7 +3,7 @@
 Welcome to my GitHub Portfolio! This repository showcases a collection of my projects, skills, and accomplishments as a developer, with a focus on Python automation and data analysis. Below, you’ll find an overview of what’s included in this repository and links to individual projects.
 
 ## About Me
-I’m [Your Name], a passionate developer with a strong interest in Python automation, data analysis, and process optimization. With a background in [mention any relevant background], I enjoy building tools and applications that improve efficiency and deliver insights from data.
+I’m Gabriele, a passionate developer with a strong interest in Python automation, data analysis, and process optimization.
 
 ## Projects Included
 Here are some key projects you’ll find in this portfolio:
@@ -32,12 +32,13 @@ Here are some key projects you’ll find in this portfolio:
 
 ## Skills Highlighted
 - Python (Automation, Scripting)
+- Airflow (DAGS creation and maintenance)
 - Data Analysis (Pandas, SQL)
 - Visualization Tools (Power BI, Tableau)
 - Process Optimization (VBA, Apps Script)
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin) or check out my [personal website](https://your-personal-site.com) for more details.
+Feel free to reach out to me via [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/gabriele-pascaretta/)).
 
 ---
 
